@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./public/js",
+    "rootDir": "./src"
+    // other options...
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}
