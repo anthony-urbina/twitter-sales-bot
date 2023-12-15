@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "outDir": "./public/js",
-    "rootDir": "./src"
+    "outDir": "./dist/js",
+    "rootDir": "./dist"
     // other options...
   },
-  "include": ["src/**/*"],
+  "include": ["dist/**/*"],
   "exclude": ["node_modules"]
 }
